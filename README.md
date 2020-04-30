@@ -12,17 +12,17 @@ And you're to be congratulated for it.
 Here are some ideas of how you could interface a chatbot with GLPI:
 
 - Qualify incidents and root incidents to the right team according to subject and urgency, all with natural language
-- To carry out research in the documentary base GLPI directly since the chatbot hosted on Teams or on Hangout (or any other support)
-- Distill standalone level 0 or level 1 resolution procedures to limit the number of tickets created
-- Facilitate the creation of tickets by making it available from your employees' favourite instant messaging tool: avoids hacker solicitation by email / phone / physical mail
+- Search the GLPI knowledge base
+- Perform level 0 or level 1 resolution procedures to limit the number of tickets created
+- Facilitate the creation of tickets by making it available from your employees' favourite instant messaging tool: avoids solicitation by email / phone / physical mail
 
 # API actions
 ## POST :
 - Report and qualify an incident in GLPI from a natural language conversation
 - Trigger a request for device from the chatbot via GLPI
 ## GET
-- Consult my tickets / current requests
-- Relaunch late tickets / requests
+- Check my tickets status
+- Comment tickets / requests
 - Search for information in the GLPI knowledge base
 
 # How to build

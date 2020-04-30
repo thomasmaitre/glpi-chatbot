@@ -1,4 +1,4 @@
-# glpi-chatbot
+# Integration a chatbot on GLPI
 API integration from Vizir to GLPI to build chatbots that create tickets, check ticket status,...
 
 GLPI is therefore a tool for managing computer tickets (incidents, service requests, etc. ...) which has the distinction of being open source!
@@ -30,3 +30,7 @@ Here are some ideas of how you could interface a chatbot with GLPI:
 - Consult my tickets / current requests
 - Relaunch late tickets / requests
 - Search for information in the GLPI knowledge base
+
+# How to build
+Go on https://dashboard.vizir.co/ and signup
+Follow the First Steps here : https://aide.vizir.co/

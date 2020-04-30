@@ -1,7 +1,7 @@
 # Integration a chatbot on GLPI
 API integration from Vizir to GLPI to build chatbots that create tickets, check ticket status,...
 
-GLPI is therefore a tool for managing computer tickets (incidents, service requests, etc. ...) which has the distinction of being open source!
+GLPI is an open source tool for managing IT support tickets (incidents, service requests, etc. ...) [https://github.com/glpi-project/glpi]
 
 Published by Teclib Group, a French company that puts responsible innovation at the heart of its values, GLPI has become one of the challengers of the ITSM market in a few years, facing mastondons such as ServiceNow, EasyVista or Jira Service Desk of Atlassian. Indeed, these two aspects (open source and French) have enabled him to establish himself in companies such as La Poste, Airbus, Vinci, Bolloré and La Redoute but also in prestigious public bodies such as the Conseil d'Etat, Inria, the University of Paris 1 Panthéon la Sorbonne and the National Police.
 
